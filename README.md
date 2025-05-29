@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexandre-Moreau-VN
 - 👀 I’m interested in Leatherworks and coding 
-- 🌱 Python, Html & CSS
+- 🌱 Python, Html/CSS, liquid, JS
 - 📫 alexmaroquinerie@gmail.com
 
 <!---
